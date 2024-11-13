@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ListEvent</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_detail">Detail</string>
+    <string name="event_image">Gambar Event</string>
+    <string name="no_data">Data tidak tersedia</string>
+    <string name="name1">Name</string>
+    <string name="owner1">Owner</string>
+    <string name="time1">Time</string>
+    <string name="quota1">Quota</string>
+    <string name="desc1">desc</string>
+    <string name="buka_link_acara">Buka Link Acara</string>
+    <string name="finished_events1">Finished Events</string>
+    <string name="upcoming_events1">Upcoming Events</string>
+    <string name="event_image1">Event Image</string>
+    <string name="event_name1">Event Name</string>
+    <string name="add_to_favorite">favorite\n</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_setting">Setting\n</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="enable_daily_reminder">Enable Daily Reminder</string>
+    <string name="event_tidak_ditemukan">Event tidak ditemukan</string>
+    <string name="belum_ada_event_favorit">Belum ada event favorit</string>
+
+
+</resources>

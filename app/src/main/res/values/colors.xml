@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="iku">#93C60C</color>
+    <color name="iku2">#889669</color>
+    <color name="iku4">#91918A</color>
+    <color name="iku5">#E9E8E0</color>
+    <color name="bekron">#f4f4e8</color>
+    <color name="bekron2">#383a32</color>
+    <color name="text">#e3e3d7</color>
+    <color name="iku6">#92908D</color>
+
+
+</resources>
